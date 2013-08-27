@@ -1,0 +1,28 @@
+{
+    "name": "earl",
+    "version": "0.1.0",
+    "author": {
+        "name": "Matt Gerton",
+        "email": "matt.gerton@gmail.com",
+        "url": "http://mattgerton.com/"
+    },
+    "description": "Earl: A simple URL utility library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mgerton/earl.git"
+    },
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/mgerton/earl/blob/master/LICENSE"
+        }
+    ],
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-clean": "0.4.0",
+        "grunt-contrib-concat": "~0.2.0",
+        "grunt-contrib-jshint": "~0.4.3",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-mocha": "~0.3.1"
+    }
+}
